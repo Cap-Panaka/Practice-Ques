@@ -40,6 +40,35 @@ int main()
         }
         
     }
+
+
+
+/*#include <stdio.h>
+int main() {
+    int n, cases = 20, mode = 0;
+    int array[9999] = {0};
+    
+    printf("Enter number : ");
+
+    while(cases--)  // input
+    {
+        scanf("%d", &n);
+        array[n]++; // taking numbers as an index and frequency as value
+    }
+
+    for(int i = 0; i < 9999; i++) //traversing array
+    {
+        if (mode < array[i])
+            mode = i; // mode is in the index
+    }
+
+    printf("Mode : %d", mode); // output
+
+    return 0;
+}--Credit: rif_x43*/
+
+
+    
     
     printf("Mode is : %d",mode);
     
