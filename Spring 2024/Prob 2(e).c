@@ -27,7 +27,7 @@ int main()
     }
     
     avg=total/100;
-    printf("Average: %f",avg);
+    printf("Average: %.2f",avg);
     
     
 }
