@@ -41,6 +41,11 @@ int main()
         
     }
 
+  printf("Mode is : %d",mode);
+    
+}
+
+
 
 
 /*#include <stdio.h>
@@ -70,6 +75,4 @@ int main() {
 
     
     
-    printf("Mode is : %d",mode);
-    
-}
+  
