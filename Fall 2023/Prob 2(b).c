@@ -49,18 +49,6 @@ int main()
 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 /* XXXX (not like this -,-)
 output:  ESC olleH stnedutS XXXX
 
