@@ -9,7 +9,7 @@ int main()
     char str[101];
     int sum=0,i;
     printf("Enter a sting: ");
-    scanf("%s",str);
+    gets(str);
     
     for(i=0;i<strlen(str); i++)
     {
