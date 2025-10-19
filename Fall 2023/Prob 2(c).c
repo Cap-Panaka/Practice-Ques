@@ -25,7 +25,7 @@ float hehe(int ar[],int n )
 
     }
     if(n%2==1) return ar[n/2];
-    else return (ar[n/2-1]+ar[n/2])/2 ;
+    else return (ar[n/2-1]+ar[n/2])/2.0 ;
 }
 
 int main()
